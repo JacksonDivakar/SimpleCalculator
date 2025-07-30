@@ -1,0 +1,40 @@
+#bg{
+    background-color: black;
+}
+.white{
+    color:white;
+}
+.hi{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.b1{
+    border:10px solid black;
+    height:900px;
+    width:900px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+    background-image: url(/Images/index.jpg);
+   
+        
+}
+
+#hi{
+    font-size:xx-large;
+    position:relative;
+    height:50px;
+    width:100px;
+    bottom:60px;
+    left:50%;
+    border-style: dotted;
+    
+}
+input[id="no3"]{
+    position:relative;
+    left:13px;
+   
+}
